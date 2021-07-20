@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mirror
+  - Reflexion
+  - Wall
+  - LinePM
+  - LineMR
+  - ReflexionChild
+  - ColliderPM
+  - ColliderMR
+  - Puff
+  - SceneManager
+  - Range
+  - Button
+  - CirclePM
+  - CircleMR
+  - ColliderInFront
+  - Audiomanager
+  - AngleIncidence
+  - Torch
+  - CanvasHelp
+  - Handle1
+  - Handle2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - NoLight
+  - Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 3651919659
+    locked: 0

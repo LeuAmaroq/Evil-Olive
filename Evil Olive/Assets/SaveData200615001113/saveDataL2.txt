@@ -1,0 +1,10 @@
+- Log file -
+
+Timestamp: 22.1971
+--------------------------------------
+
+Number of time power was used: 0
+Number of time failed attempt to use power: 0
+Number of time tooltip was used: 0
+Number of time switched between mirrors: 0
+Number of time switches used: 0
